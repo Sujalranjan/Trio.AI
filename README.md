@@ -3,7 +3,7 @@
 **Tagline:** Ending Corporate Amnesia through Semantic Knowledge Graphs.
 
 ## 🚀 Setup & Installation
-1. **Clone the repo:** `git clone [YOUR_REPO_URL]`
+1. **Clone the repo:** `git clone [https://github.com/Sujalranjan/Trio.AI]`
 2. **Backend Setup:**
    - `cd backend`
    - `python -m venv venv`
